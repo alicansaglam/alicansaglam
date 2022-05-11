@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alicansaglam
-- 👀 I’m interested in computers, education as well as programming!
+- 👀 I’m interested in computers, educational technology as well as programming!
 - 🌱 I’m currently learning React!
 - 📫 How to reach me is email and social media. https://twitter.com/alican_saglam https://www.instagram.com/saglamalican
 
