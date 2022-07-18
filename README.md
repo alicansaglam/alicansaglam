@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alicansaglam
-- 👀 I’m interested in computers, educational technology as well as programming!
-- 🌱 I’m currently learning React!
+- 👀 I’m interested in computers, instructional design and technology as well as programming!
+- 🌱 I’m currently learning SwiftUI and React!
 - 📫 How to reach me is email and social media. https://twitter.com/alican_saglam https://www.instagram.com/saglamalican
 
 <!---
